@@ -5,7 +5,7 @@ To start working with Quaive, you need users. Users are stored as user profiles 
 
 User profiles can be customised as well. Often, organisations have a central user database which supplies the basic information like name and contact details and is mainly used for authenication. If you want to store more data, Quaive user profiles can store this extra information for you.
 
-There are two ways to get users into Quaive. 
+There are two ways to get users into Quaive.
 
 1. Connect Quaive to LDAP or Active Directory
    Please contact your system administrator to do that, as it requires knowledge about the organisations user database configuration.
@@ -16,11 +16,19 @@ There are two ways to get users into Quaive.
 Import Users from a spreadsheet
 -------------------------------
 
-There is a bulk upload from CSV option. Column names are mapped to field names, and the data is validated before users are created:
+There is a bulk upload from CSV option. Column names are mapped to field names, and the data is validated before users are created. The first line needs to contain the field names.
 
 To use the bulk upload, visit the @@import-users browser view on the profiles folder in your site::
 
     /plonesite/profiles/@@import-users
+
+On this page, you will see a complete list of avaible field names. Here is an example of a CSV file that willl create 2 users::
+
+    username,first_name,last_name,email,password
+    barry_white,Barry,White,barry@test.com,replace_this
+    doug_carswell,Doug,Carswell,doug@test.com,replace_this
+
+
 
 ---------------
 Portrait images

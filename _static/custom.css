@@ -1,0 +1,71 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800|Raleway:400,300,200,500,700,600,800|Playfair+Display:400,400italic,700,700italic);
+p.logo {
+    position:absolute;
+    top:10px;
+    left:10px;
+    margin-top:0;
+    width:160px;
+}
+div.document {
+    margin-top: 80px;
+    padding-top: 80px;
+    background-color: white;
+    width: 100%;
+    margin-left:0;
+    border-top: 2px solid #ddd;
+    border-bottom: 2px solid #ddd;
+}
+body {
+    background-color: #004466;
+    font-size: 15px;
+}
+div.body h1 {
+    margin-bottom: 50px;
+}
+div.sphinxsidebar ul li.toctree-l1  a {
+    font-size: 90%;
+}
+
+div.bodywrapper .toctree-wrapper.compound > ul {
+    margin-left: 0;
+}
+
+div.bodywrapper ul li.toctree-l1 {
+    display: block;
+    margin-bottom: 2%;
+    margin-right: 2%; 
+    min-height: 280px;
+    min-width: 200px;
+    border: 1px solid #d4d4d4;
+    border-radius: 5px;
+    padding: 0.75rem 1rem;
+    box-sizing: border-box;
+    width: 31%;
+    float: left;
+    
+}
+div.bodywrapper ul li.toctree-l1  a,
+div.bodywrapper ul li.toctree-l1  a:visited {
+    border-bottom: none;
+}
+div.bodywrapper ul li.toctree-l1 > a {
+    font-size: 120%;
+    padding-bottom: 25px;
+    color: black;
+}
+div.bodywrapper ul li.toctree-l1 > ul {
+    margin-left: 0;
+}
+div.bodywrapper ul li.toctree-l2 {
+    display: block;
+    line-height: 1.5;
+}
+div.bodywrapper ul li.toctree-l2 > a {
+    font-size: 90%;
+
+}
+div.section {
+    clear: both;
+}
+

@@ -26,7 +26,7 @@ This manual is targeted towards end users and power users of Quaive Social Intra
 
 
 Todo List
-=========
+---------
 
 This manual is work in progress. Please find below a list of known open issues that can be adressed right away
 

@@ -22,7 +22,7 @@ Dieses Handbuch richtet sich an die Benutzer von "Quaive - Social Intranet". Fal
 
 
 Todo Liste
-==========
+----------
 
 Dieses Handbuch befindet sich im Aufbau. Folgende Liste zeigt die momentan offenen Punkte, die sofort bearbeitet werden können.
 

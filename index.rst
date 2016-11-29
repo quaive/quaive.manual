@@ -1,5 +1,5 @@
-Quaive Help Center
-==================
+Quaive Manual
+=============
 
 Please chose your language. //
 Bitte wählen Sie Ihre Sprache.
@@ -10,7 +10,7 @@ Bitte wählen Sie Ihre Sprache.
 
 .. toctree::
     :hidden:
-    :maxdepth: 2
+    :maxdepth: 3
 
     en/index
     de/index

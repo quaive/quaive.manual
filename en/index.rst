@@ -5,8 +5,8 @@
 
 .. _manual-en:
 
-Help Center
-===========
+Quaive Manual
+=============
 
 This manual is targeted towards end users and power users of Quaive Social Intranet. If you are a developer, you might want to also look at `the developer documentation`_.
 

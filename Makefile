@@ -3,7 +3,7 @@
 
 # You can set these variables from the command line.
 SPHINXOPTS    =
-SPHINXBUILD   = sphinx-build
+SPHINXBUILD   = bin/sphinx-build
 PAPER         =
 BUILDDIR      = _build
 
@@ -44,12 +44,16 @@ help:
 	@echo "  coverage   to run coverage check of the documentation (if enabled)"
 	@echo "  dummy      to check syntax errors of document sources"
 
+bin/sphinx-build:
+	virtualenv .
+	bin/pip install sphinx
+
 .PHONY: clean
 clean:
 	rm -rf $(BUILDDIR)/*
 
 .PHONY: html
-html:
+html: bin/sphinx-build
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."

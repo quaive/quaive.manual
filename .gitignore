@@ -4,3 +4,6 @@ include
 _build
 src
 ._*
+.DS_Store
+.Python
+pip-selfcheck.json

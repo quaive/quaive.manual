@@ -3,6 +3,8 @@
 Create Content
 ========================
 
+This part of the manual is about how to use and create content in an existing workspace.
+
 The page icon opens the documents section. Here all content of a workspace is listed and managed.
 There are several content types available to store and manage data in a workspace:
 

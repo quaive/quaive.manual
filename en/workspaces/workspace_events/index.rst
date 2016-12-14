@@ -49,6 +49,11 @@ Only the title field and the start and end date and time are required. All other
 
 For date fields in Quaive a handy popup-calendar helps you selecting the date easily.
 
+.. _quaive-user-picker-field-label:
+
+Quaive user picker field
+************************
+
 For the user related fields Quaive offers a special user picker that helps you browsing the user database to find portal users and assign them:
 
 .. image::  ../images/user-picker-1.png
@@ -65,12 +70,13 @@ That's how the form looks for our test event. To create the event just click the
 
 .. image::  ../images/create-event-3.png
 
-Your event is now created and listed in the sidebar under upcoming events.
+Your event is now created and listed in the sidebar under "Upcoming events".
 
 There will be a section older events which holds events of this workspace with end dates in the past. You can see that in the next chapter of this manual when we take a closer look at the workspace's :ref:`calendar-view-label`.
 
 .. image::  ../images/create-event-4.png
 
+.. _calendar-view-label:
 
 -------------------------------
 Use the Calendar view

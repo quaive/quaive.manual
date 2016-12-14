@@ -1,4 +1,6 @@
-Create Workspace Content
+.. _workspace-content-label:
+
+Create Content
 ========================
 
 The page icon opens the documents section. Here all content of a workspace is listed and managed.
@@ -15,7 +17,7 @@ The main content types for workspaces currenty existing in Quaive are:
 In this section, the works as a file browser where the existing content of a workspace is presented in a list as you know it from the file browser on your computer.
 There are several possibilities to group, filter or search for the elements in the sidebar to help you managing your content.
 
-Learn more about using the sidebar for managing workspace content here: ... [link to workspace-manage-content]
+Learn more about using the sidebar for managing workspace content here: :ref:`workspace-manage-content-label`
 
 -----------
 Document

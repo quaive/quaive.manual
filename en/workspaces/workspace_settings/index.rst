@@ -1,15 +1,17 @@
-Workspace Settings
+.. _workspace-settings-label:
+
+Settings
 ==================
+
+This part of the manual is about how to change the different workspace settings.
 
 The gearwheel icon opens the settings section. Here all metadata of a workspace is stored and managed.
 Also the members of a workspace and the workspaces security settings can be edited in this area.
 
+.. image::  ../images/workspace-settings-sidebar.png
+
 When in settings section, you can see several tabs at the top of the sidebar.
 These tabs open the available subsections of the workspace settings:
-
-.. image::  ../images/workspace-settings.png
-
-These different sections of settings are:
 
 .. contents::
     :depth: 1
@@ -36,6 +38,8 @@ Here you can add new members or groups, delete existing ones or change the speci
 .. ** How to add a member to a workspace
 .. ** How to remove a member from a workspace
 .. ** How to change the role of a workspace member
+
+.. _workspace-settings-security-label:
 
 -----------
 Security

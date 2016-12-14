@@ -1,4 +1,6 @@
-Manage Workspace Content
+.. _workspace-manage-content-label:
+
+Manage Content
 ========================
 
 In the documents section of a workspace the sidebar presents the content of the current workspace in a similar way a file browser on your computer does.

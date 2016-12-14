@@ -24,8 +24,51 @@ Here general metadata like title, description and the workspace's hero image can
 
 .. image::  ../images/workspace-settings-general.png
 
-.. ** How to change title and description of a workspace
-.. ** How to change the hero image of a workspace
+How to change title and description of a workspace
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+To change a workspace's title and description just type a new title or description in the text field or area in the sidebar.
+
+.. image::  ../images/settings-title-change-1.png
+
+The metadata is immediately autosaved and a info popup tells you that some attributes have been changed.
+
+.. image::  ../images/settings-title-change-2.png
+
+After the page is reloaded you can see the new workspace title in the breadcrumbs and the workspace header.
+
+.. image::  ../images/settings-title-change-3.png
+
+
+How to change the hero image of a workspace
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Each workspace can have a hero image to be displayed as a visual element in the workspace's header section background.
+Changing this image can also be done in the general settings section.
+
+To change the image click the "upload" button in the sidebar and select an image in the opening file browser of your computer.
+
+.. image::  ../images/settings-hero-change-1.png
+
+The image will be changed immediately as the metadata again is autosaved.
+
+.. image::  ../images/settings-hero-change-2.png
+
+Reloading the page will display the image in the header section of your workspace.
+
+.. image::  ../images/settings-hero-change-3.png
+
+.. _workspace-settings-central-calendar-label:
+
+How to display the workspace events in the global calendar
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+There is a possibility to display the events of your workspace in the global calendar app.
+To enable this you have to check the checkbox "Workspace calendar visible in central calendar application"
+
+Learn more about events and the workspace calendar here: :ref:`workspace-events-label`
+
+.. image::  ../images/settings-calendar-1.png
 
 -----------
 Members

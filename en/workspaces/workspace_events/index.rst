@@ -104,8 +104,11 @@ Events that do not belong to the workspace you are currently in are displayed in
 .. image::  ../images/events-calendar-4.png
 
 In the Quaive workspace calendar view - same as in the Quaive calendar app - you can switch between the calendar month, week or day view.
+Here you can see the calendar week view:
 
 .. image::  ../images/events-calendar-6.png
+
+And the calendar day view:
 
 .. image::  ../images/events-calendar-7.png
 
@@ -113,4 +116,7 @@ In all calendar views you can also create new events by simply clicking the tile
 This will open a compact popup form to create your events in a quick and easy way.
 
 .. image::  ../images/events-calendar-5.png
+
+There is also an option to view the events of you local workspace's calendar in the central calendar app.
+To enable this you have to change the setting "Workspace calendar visible in central calendar application" in the workspace general settings section as described here: :ref:`workspace-settings-central-calendar-label`
 

@@ -1,10 +1,12 @@
 Workspaces
 ==========
 
-In a Quaive site workspaces are the key elements or areas to create, organize and share content.
-Workspaces represent projects or working units where the users that work on these projects are members of the workspace and collaborate togeter by creating and editing content.
+In a Quaive site workspaces are the key areas for creating, organizing and sharing content.
+Workspaces represent projects or working units where the users that work on these projects are members of the workspace and collaborate by creating and editing content.
 
-Workspaces can be used as simple folders to just store data that belongs to a specific project. But they can also be used in a very powerful way by drafting a timeline with the workspace's built in events, creating different tasks to describe what to do and assign them to the workspace members and even watch what's going on in the workspace by looking at the social stream and the information about activities performed over the time.
+A very important aspect of workspaces is the security model that ensures that all content is only visible to those users who are supposed to see it.
+
+In the most simple use-case, workspaces can be treated as folders for storing data that belongs to a specific project. But they provide many more powerful aspects, such as built-in events that will appear in the workspace calendar and the possibility to create and assigns tasks. All actions that happen in the workspace automatically appear in the social stream, where they can be commented on by the workspace members.
 
 In this chapter of the manual we will take a closer look at Quaive's workspaces and how you can use them. All sections of a workspace, content elements and subsystems will be treated here.
 

@@ -17,6 +17,11 @@ Click it and a text input opens. Enter one or more words that are contained in t
 
 Submit your input by pressing enter. You are taken to the search results page.
 
+
+------------------
+The search results
+------------------
+
 .. image:: images/search-results-1.png
 
 A list of results is displayed. The results most relevant to the search are shown at the top of the list. Results will have a preview and/or description where available.
@@ -34,13 +39,28 @@ Above the results list you can see how many results were found.
 
 .. image:: images/search-results-number-1.png
 
+
+-------
+Filters
+-------
+
 If the list is long you can narrow down your search by selecting filters on the left. If, for example, you know the type of document you are looking for then you can select it from the offered document types. The result list is updated to reflect your selection.
 
 .. image:: images/search-filters-1.png
 
+
+--------------
+Spell checking
+--------------
+
 Even if there is a typo in your search you can still find what you are looking for. The search will suggest search words with similar spelling to those you entered.
 
 .. image:: images/search-results-spellcheck-1.png
+
+
+----------------------
+Alternate result views
+----------------------
 
 Several specialized results pages help you search for specific things, for example people. They are accessible as tabs on the default results page.
 

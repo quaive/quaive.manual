@@ -1,9 +1,10 @@
-bin
-lib
-include
-_build
-src
-._*
 .DS_Store
 .Python
+._*
+_build
+bin
+include
+lib
+local
 pip-selfcheck.json
+src

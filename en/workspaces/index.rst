@@ -30,3 +30,4 @@ Read on to create your first workspace and discover all sections and content obj
    versioning
    workspace_events/index
    workspace_tasks/index
+   cases/index

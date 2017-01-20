@@ -74,7 +74,7 @@ After a click on the "Publish" button, you see a notification on the document th
 
 .. note::
 
-  However, information pushed to the Library from a workspace is not automatically visible to all. A Library publisher still needs to make such a document publicly visible via the CMS (see below).
+  However, information pushed to the Library from a workspace is not automatically visible to all. A Library publisher still needs to make such a document publicly visible via the CMS (see :ref:`publish_in_cms` below).
 
 From the CMS
 ------------
@@ -83,11 +83,20 @@ User who are Library publishers see a little "Plus" icon on the Library:
 
 .. image::  images/library-add-content.jpeg
 
-A click on it will open the Content Management System (CMS) view.
-TBC...
+A click on it will open the Content Management System (CMS) view. Here, you can add new Library sections and folders (1st and 2nd level of the structure) as well as new documents:
 
 .. image::  images/library-add-content-from-cms.jpeg
 
-Publish....
+Once a new document has been created, you can continue to edit it via the "Edit" link in the sidebar on the left. You might want to add tags (under the tab "Categories") or adjust the title and description.
+
+
+.. _publish_in_cms:
+
+Publishing Library Content
+++++++++++++++++++++++++++
+
+Once you are satisfied and want to make the document available to all users, be sure to publish it:
 
 .. image::  images/library-publish-content-cms.jpeg
+
+For futher reading about editing in the CMS, please refer to `The Plone documentation <http://docs.plone.org/>`_.

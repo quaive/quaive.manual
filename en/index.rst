@@ -18,7 +18,7 @@ This manual is targeted towards end users and power users of Quaive Social Intra
    getting_started/index
    dashboard/index
    news
-   library
+   library/index
    workspaces/index
    workspace-content/index
    apps/index

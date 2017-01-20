@@ -21,7 +21,7 @@ This manual is targeted towards end users and power users of Quaive Social Intra
    library
    workspaces/index
    workspace-content/index
-   apps
+   apps/index
    search
    social_stream
 

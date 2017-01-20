@@ -43,3 +43,51 @@ Similar to the display by section, you then see two levels, placed in little box
 -----------------------------
 Adding content to the Library
 -----------------------------
+
+For adding documents to the Library or editing existing ones, a special permission is required. Only authorised users can publish contents in the Library that will then be visible to all users. These users are called "Library publishers".
+
+
+From within a workspace
+-----------------------
+
+Any user of a workspace can send a document from their workspace to the Library. This can make sense when the information of this document is considered relevant for all users of the intranet.
+
+For security reasons, a document must first be published inside the workspace before it can be sent to the Library. This is to ensure that no contents that are not meant to be visible for all users get published accidentally.
+
+On a published document, you have the option "Publish to Library" inside the menu of additional options:
+
+.. image::  images/library-publish-from-workspace.jpeg
+
+A click on it will open a little pop-up window where you can choose the destination:
+
+.. image::  images/library-publish-menu.jpeg
+
+In the selection menue, pick the desired section of the Library:
+
+.. image::  images/library-publish-menu-details.jpeg
+
+
+After a click on the "Publish" button, you see a notification on the document that a copy exists in the Library:
+
+.. image::  images/library-published-from-workspace.jpeg
+
+
+.. note::
+
+  However, information pushed to the Library from a workspace is not automatically visible to all. A Library publisher still needs to make such a document publicly visible via the CMS (see below).
+
+From the CMS
+------------
+
+User who are Library publishers see a little "Plus" icon on the Library:
+
+.. image::  images/library-add-content.jpeg
+
+A click on it will open the Content Management System (CMS) view.
+TBC...
+
+.. image::  images/library-add-content-from-cms.jpeg
+
+Publish....
+
+.. image::  images/library-publish-content-cms.jpeg

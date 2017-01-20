@@ -42,5 +42,20 @@ You will also see the assignee and due date on the case workspace.
 .. image::  ../images/case-task-assignee-and-date.png
 
 You can now add complete the task by adding a team member.
-This works in exactly the same way as a normal workspace.
+This works in exactly the same way as a normal workspace, using the :ref:`workspace-settings-members-label` settings.
 
+There are two ways to mark a task as complete.
+
+.. image::  ../images/case-complete-task-1.png
+
+You can now see that the task is complete.
+
+.. image::  ../images/case-complete-task-2.png
+
+Once all the tasks for a milestone are complete, you can close the milestone and move on to the next one.
+
+.. image::  ../images/case-close-milestone-1.png
+
+You can now see that the milestone is closed, you can also reopen it from the task sidebar.
+
+.. image::  ../images/case-close-milestone-2.png

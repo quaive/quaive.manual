@@ -70,6 +70,9 @@ Learn more about events and the workspace calendar here: :ref:`workspace-events-
 
 .. image::  ../images/settings-calendar-1.png
 
+
+.. _workspace-settings-members-label:
+
 -----------
 Members
 -----------

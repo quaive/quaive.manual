@@ -29,7 +29,7 @@ Then click "Create workspace" to finally create your first workspace.
 
 .. image::  images/create-workspace-3.png
 
-When entering a workspace you can see a set of icons in the coloured vertical bar on the left of the page. This is the section navigation of the workspaceand the icons represent the different sections of the workspace. Clicking them opens the sidebar, a vertical panel for the selected section.
+When entering a workspace you can see a set of icons in the coloured vertical bar on the left of the page. This is the section navigation of the workspace and the icons represent the different sections of the workspace. Clicking them opens the sidebar, a vertical panel for the selected section.
 
 .. image::  images/workspace-sections.png
 
@@ -61,7 +61,7 @@ Settings
 -------------------
 
 The gearwheel icon opens the settings section. Here all metadata of a workspace is stored and managed.
-Also the members of a workspace and the workspaces security settings can be edited in this area.
+Also the members of a workspace and the workspace security settings can be edited in this area.
 
 Learn more about managing the workspace settings here: :ref:`workspace-settings-label`
 

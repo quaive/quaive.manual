@@ -1,12 +1,15 @@
 
 .. _manual-de:
 
-Quaive Hilfe
-============
+[Deutsch] Quaive Handbuch
+=========================
 
-Dieses Handbuch richtet sich an die Benutzer von "Quaive - Social Intranet". Falls Sie Quaive weiterenwickeln wollen, könnte auch das `Handbuch für Entwickler`_ für Sie interessant sein.
+Dieses Handbuch richtet sich an die Benutzer von "Quaive - Social Intranet".
 
-.. _Handbuch für Entwickler: http://docs.quaive.net/
+Falls Sie Quaive weiterenwickeln wollen, könnte auch das `Handbuch für Entwickler (neueste Version)`_  oder `Handbuch für Entwickler (offene Version)`_ für Sie interessant sein.
+
+.. _Handbuch für Entwickler (neueste Version): http://docs.quaive.net/
+.. _Handbuch für Entwickler (offene Version): https://docs.ploneintranet.org/
 
 .. toctree::
    :maxdepth: 2

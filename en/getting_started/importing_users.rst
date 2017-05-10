@@ -1,6 +1,8 @@
 Importing Users
 ===============
 
+.. versionadded:: 1.0
+
 To start working with Quaive, you need users. Users are stored as user profiles in Quaive and store everything that Quaive knows about the user - from profile image and name to organisation and telefone number. You can find them in the /profiles folder.
 
 User profiles can be customised as well. Often, organisations have a central user database which supplies the basic information like name and contact details and is mainly used for authenication. If you want to store more data, Quaive user profiles can store this extra information for you.

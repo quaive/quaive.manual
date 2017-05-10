@@ -2,6 +2,7 @@
 The History
 ===========
 
+.. versionadded:: 1.0
 .. admonition:: Description
 
     This document gives a short overview of the historical genesis of this project. For the current status, see the Quaive_ website.
@@ -69,7 +70,7 @@ Further reading
     * Slides at `Slideshare <http://www.slideshare.net/GuidoStevens/plone-intranet-consortium-united-we-stand-divided-we-fall>`_
     * Video at `Vimeo <http://vimeo.com/110489988>`_
 
-* Many talks given at the Plone Conference 2015 in Bucharest, see the `ploneintranet tweet stream`_      
+* Many talks given at the Plone Conference 2015 in Bucharest, see the `ploneintranet tweet stream`_
 
 .. _Quaive: http://quaive.com
 .. _ploneintranet tweet stream: https://twitter.com/ploneintranet

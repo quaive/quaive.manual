@@ -1,13 +1,15 @@
 News
 ====
 
+.. versionadded:: 1.2
+
 News in Quaive shows up in 3 places in the user interface:
 
 .. contents::
     :depth: 1
     :local:
 
--------------------       
+-------------------
 Dashboard news tile
 -------------------
 
@@ -123,4 +125,3 @@ users in the news magazine and on the dashboard.
   for those users that have not yet read it, until they read the item.
 
 - News items should be given an expiration date so they don't remain visible forever
-

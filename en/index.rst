@@ -23,6 +23,7 @@ If you are a developer, you might want to also look at `the developer documentat
    apps/index
    search
    social_stream
+   changelog
 
 
 Todo List

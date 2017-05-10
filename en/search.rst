@@ -1,6 +1,8 @@
 Search
 ======
 
+.. versionadded:: 1.0
+
 The search is the tool of choice if you know what you are looking for but not exactly where to find it.
 
 ---------------------
@@ -44,6 +46,8 @@ Above the results list you can see how many results were found.
 Filters
 -------
 
+.. versionadded:: 1.1
+
 If the list is long you can narrow down your search by selecting filters on the left. If, for example, you know the type of document you are looking for then you can select it from the offered document types. The result list is updated to reflect your selection.
 
 .. image:: images/search-filters-1.png
@@ -53,6 +57,8 @@ If the list is long you can narrow down your search by selecting filters on the 
 Spell checking
 --------------
 
+.. versionadded:: 1.1
+
 Even if there is a typo in your search you can still find what you are looking for. The search will suggest search words with similar spelling to those you entered.
 
 .. image:: images/search-results-spellcheck-1.png
@@ -61,6 +67,8 @@ Even if there is a typo in your search you can still find what you are looking f
 ----------------------
 Alternate result views
 ----------------------
+
+.. versionadded:: 1.1
 
 Several specialized results pages help you search for specific things, for example people. They are accessible as tabs on the default results page.
 

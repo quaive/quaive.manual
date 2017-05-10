@@ -1,6 +1,8 @@
 Erste Schritte mit Quaive
 =========================
 
+.. versionadded:: 1.0
+
 Willkommen bei Quaive! Sie haben Quaive möglicherweise schon auf einem Testserver ausprobiert oder selbst installiert. Jetzt wollen sie es für den eigentlichen Einsatz in Ihrer Organisation konfigurieren? Hier erklären wir Ihnen, wie Quaive aufgebaut ist und wie Sie es so einrichten, dass Sie den größten Nutzen aus Ihrem neuen solzialen Intranet mit Quaive haben.
 
 In Quaive dreht sich alles um Personen und Inhalte. In aller Kürze:

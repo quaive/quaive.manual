@@ -44,6 +44,7 @@ help:
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
 	@echo "  coverage   to run coverage check of the documentation (if enabled)"
 	@echo "  dummy      to check syntax errors of document sources"
+	@echo "  serve      to make HTML files and serve it on http://localhost:8000"
 
 bin/sphinx-build:
 	virtualenv .
@@ -228,3 +229,7 @@ dummy:
 	$(SPHINXBUILD) -b dummy $(ALLSPHINXOPTS) $(BUILDDIR)/dummy
 	@echo
 	@echo "Build finished. Dummy builder generates no files."
+
+.PHONY: serve
+serve: html
+	@cd _build/html && python -m SimpleHTTPServer

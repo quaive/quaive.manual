@@ -52,7 +52,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Quaive'
-copyright = u'2016, Quaive.com'
+copyright = u'2017, Quaive.com'
 author = u'Quaive.com'
 
 # The version info for the project you're documenting, acts as replacement for

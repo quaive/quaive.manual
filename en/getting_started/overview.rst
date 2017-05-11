@@ -27,4 +27,4 @@ The main sections in Quaive are
 * Workspaces - All information that concerns your teams.
 * Apps - All information that concerns you.
 
-The Open Source version of Quaive goes also under the name Plone Intranet and has been created by a team of Plone Solution Providers in an effort to unify available solutions for intranet under a designed and streamlined solution. The effort is organised in a consortium with currently 10 members, totalling 49 contributors in 6 countries.
+The Open Source version of Quaive goes also under the name Plone Intranet and has been created by a team of Plone Solution Providers in an effort to unify available solutions for intranet under a designed and streamlined solution. The effort is organised in a consortium with currently 12 members, totalling 49 contributors in 6 countries.

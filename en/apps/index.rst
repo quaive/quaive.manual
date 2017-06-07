@@ -17,3 +17,4 @@ Additional functionality for your Quaive site is available in the Apps tab.
    case_manager/index
    mesages/index
    news-publisher/index
+   todo/index

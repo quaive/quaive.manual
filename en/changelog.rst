@@ -16,6 +16,7 @@ Apps
 - Calendar
 - Messages
 - News publisher
+- Todo
 
 Layout
 ------

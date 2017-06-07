@@ -1,6 +1,8 @@
 Locking
 =======
 
+.. versionadded:: 1.2
+
 Quaive provides locking support to prevent concurrent edits on the documents.
 
 When the user starts to edit a document,

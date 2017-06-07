@@ -28,6 +28,7 @@ Read on to create your first workspace and discover all sections and content obj
    workspace_content/index
    workspace_manage_content/index
    versioning
+   locking
    workspace_events/index
    workspace_tasks/index
    cases/index

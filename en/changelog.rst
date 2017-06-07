@@ -25,6 +25,12 @@ Layout
 - Welcome splash screens for the users with can be used to train the
   users after an upgrade
 
+Workspaces
+----------
+
+- Improved locking support
+
+
 ------------------
 What's new in GAIA
 ------------------

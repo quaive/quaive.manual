@@ -1,15 +1,20 @@
 
 .. _manual-en:
 
-[English] Quaive Manual
-=======================
+Welcome to the Quaive Help Center
+=================================
+
+**Use the search bar on the left or pick a category below to find the help you need.**
 
 This manual is targeted towards end users and power users of Quaive Social Intranet.
 
-If you are a developer, you might want to also look at `the developer documentation (latest version)`_ or `the developer documentation (open version)`_.
+.. note ::
+   If you are a developer, you might want to also look at `the developer documentation`_
 
-.. _the developer documentation (latest version): http://docs.quaive.net/
-.. _the developer documentation (open version): https://docs.ploneintranet.org/
+
+.. _the developer documentation: https://docs.ploneintranet.org/
+
+
 
 .. toctree::
    :maxdepth: 2
@@ -25,9 +30,3 @@ If you are a developer, you might want to also look at `the developer documentat
    changelog
 
 
-Todo List
----------
-
-This manual is work in progress. Please find below a list of known open issues that can be adressed right away
-
-.. todolist::

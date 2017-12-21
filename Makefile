@@ -49,6 +49,7 @@ help:
 bin/sphinx-build:
 	virtualenv .
 	bin/pip install sphinx
+	bin/pip install sphinx_rtd_theme
 
 .PHONY: clean
 clean:

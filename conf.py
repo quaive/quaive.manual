@@ -122,21 +122,20 @@ todo_include_todos = True
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
-# further.  For a list of options available for each theme, see the
+# further.  For a list of options available for each theme, see fthe
 # documentation.
 #
 html_theme_options = {
-    'logo': 'quaive.svg',
-    'logo_name': False,
-    'font_family': 'Open Sans',
-    'head_font_family': 'Montserrat'
+    #    'logo': 'quaive.svg',
+    #   'font_family': 'Open Sans',
+    #    'head_font_family': 'Montserrat'
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = ['lib/python2.7/site-packages/alabaster/']
+#html_theme_path = ['lib/python2.7/site-packages/alabaster/']
 
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.

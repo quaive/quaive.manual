@@ -1,5 +1,15 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800|Raleway:400,300,200,500,700,600,800|Playfair+Display:400,400italic,700,700italic);
+
+.wy-side-nav-search { background-color: #004466; }
+.wy-side-nav-search > a { width: 160px; height: 80px; background-image: url('../_static/quaive.svg'); background-size: cover; color:#004466;}
+.wy-side-nav-search > a:hover { width: 160px; height: 80px; background-image: url('../_static/quaive.svg'); background-size: cover; color:#004466;}
+.wy-side-nav-search > a:before { content:"";}
+
+.wy-side-nav-search .version { color: rgba(255,255,255,1); }
+
+
+/* Alabaster styles
 p.logo {
     position:absolute;
     top:10px;
@@ -18,13 +28,13 @@ div.document {
 }
 body {
     background-color: #004466;
-    font-size: 15px;
+    font-size: 16px;
 }
 div.body h1 {
     margin-bottom: 50px;
 }
 div.sphinxsidebar ul li.toctree-l1  a {
-    font-size: 90%;
+    font-size: 100%;
 }
 
 div.bodywrapper .toctree-wrapper.compound > ul {
@@ -68,4 +78,4 @@ div.bodywrapper ul li.toctree-l2 > a {
 div.section {
     clear: both;
 }
-
+*/

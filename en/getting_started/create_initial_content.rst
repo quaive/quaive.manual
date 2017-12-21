@@ -27,6 +27,3 @@ And there are tags. You can tag all your documents in the library cms. If you ha
 Example:
 Your structure is strictly built by department, and every department has order forms, then tagging them with the tag 'order form' makes it easy to locate all order forms - company wide.
 
-.. todo::
-
-   Explain Teams

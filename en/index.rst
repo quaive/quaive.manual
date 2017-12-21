@@ -19,7 +19,6 @@ If you are a developer, you might want to also look at `the developer documentat
    news
    library/index
    workspaces/index
-   workspace-content/index
    apps/index
    search
    social_stream

@@ -15,6 +15,6 @@ Additional functionality for your Quaive site is available in the Apps tab.
    bookmarks/index
    calendar/index
    case_manager/index
-   mesages/index
+   messages/index
    news-publisher/index
    todo/index

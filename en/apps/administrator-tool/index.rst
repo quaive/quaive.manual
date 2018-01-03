@@ -80,3 +80,21 @@ The create user panel
     The user will receive an email
     (be sure your mail setting in the Plone control panel are ok)
     with a link to reset his password.
+
+
+----------
+How can I?
+----------
+
+How can I delete a user?
+------------------------
+
+Deleting a user is discouraged in Quaive, because this could break the "social" aspect of the intranet. Any content that a user has created is suddenly without a connection to the creator. That is why in the Administrator Tool, you can only disable a user to prevent further logging in.
+
+However, there might be a reason to really delete a users, e.g. if you created a duplicate account. This is possible in the CMS https://cms[yourname].quaivecloud.com/profiles/folder_contents.
+
+In the root, click on "Contents", then on Profiles. This takes you here: https://cms[yourname].quaivecloud.com/profiles/folder_contents.
+
+Locate the duplicate profile: just hover over the link to see the URL. Tick the duplicate one, press Delete.
+Warning: for a new user who has not created any content yet, this should be no problem. But deleting a user this way who has created content already will lead to broken links.
+
